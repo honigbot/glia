@@ -1,0 +1,11 @@
+[package]
+name = "glia"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Cross-platform OpenGL ES 2.0 implementation with extended support for the unterlying native platforms"
+repository = "https://github.com/honigbot/glia"
+readme = "README.md"
+keywords = ["graphics", "opengl", "gl", "egl"]
+
+[dependencies]
